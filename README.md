@@ -1,0 +1,2 @@
+# What-Drives-Mortality-in-Heart-Failure-A-Fully-Bayesian-Analysis
+Studio inferenziale bayesiano per individuare i fattori clinici determinanti della mortalità nei pazienti affetti da scompenso cardiaco, analizzando registrazioni cliniche di 299 pazienti e confrontando la capacità esplicativa e predittiva di due differenti modellazioni per l'esito binario DEATH_EVENT, stimate tramite campionamento MCMC in JAGS.
